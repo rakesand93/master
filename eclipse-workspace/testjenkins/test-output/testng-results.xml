@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10656" started-at="2023-10-20T01:05:21 IST" finished-at="2023-10-20T01:05:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10656" started-at="2023-10-20T01:05:21 IST" finished-at="2023-10-20T01:05:31 IST">
+      <class name="TestScenarios.TestMethods_GoogleSearch">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@289d1c02]" name="beforeTest" is-config="true" duration-ms="5206" started-at="2023-10-20T01:05:21 IST" finished-at="2023-10-20T01:05:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="searchOperation()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@289d1c02]" name="searchOperation" duration-ms="4566" started-at="2023-10-20T01:05:26 IST" finished-at="2023-10-20T01:05:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperation -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@289d1c02]" name="afterTest" is-config="true" duration-ms="822" started-at="2023-10-20T01:05:30 IST" finished-at="2023-10-20T01:05:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestScenarios.TestMethods_GoogleSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
